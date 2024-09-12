@@ -1,0 +1,46 @@
+footer {
+    background-color: rgb(93, 93, 93);
+    color: #fff;
+    margin-top: 100px;
+}
+
+.gambar-pekan {
+    width: 100px; height: auto;
+}
+
+
+#my-pagination .pagination {
+    text-align: center !important;
+    display: block;
+
+}
+
+#my-pagination .pagination li {
+    display: inline;
+}
+
+#my-pagination .pagination li.active a {
+    border: 1px solid #ccc;
+    color: rgb(236, 236, 236);
+    background-color: rgb(66, 66, 66);
+
+}
+
+#my-pagination .pagination li a {
+    border: 1px solid #ccc;
+    background-color: rgb(236, 236, 236);
+    color: rgb(66, 66, 66);
+    display: inline-block;
+    padding-left: 10px; padding-right: 10px;
+    height: 30px;
+    border-radius: 4px;
+}
+
+#my-pagination .pagination li a:hover {
+    text-decoration: none;
+    border: 1px solid #ccc;
+    color: rgb(236, 236, 236);
+    background-color: rgb(66, 66, 66);
+
+
+}
